@@ -1,0 +1,84 @@
+name,lat,lon,low_lying,near_water,past_floods
+Hindmata (Dadar),19.0107,72.8420,10,5,10
+Milan Subway (Santacruz),19.0895,72.8438,10,6,10
+Andheri Subway,19.1180,72.8470,10,5,10
+Malad Subway,19.1870,72.8480,9,5,10
+Khar Subway,19.0700,72.8390,9,6,9
+Dahisar Subway,19.2550,72.8580,9,7,9
+Chunabhatti Railway Subway,19.0520,72.8770,9,8,9
+Mankhurd Railway Underpass,19.0490,72.9320,8,7,8
+Tilak Nagar Underpass,19.0680,72.8980,8,6,8
+Sion Circle,19.0390,72.8619,9,7,10
+Gandhi Market (Sion),19.0360,72.8560,10,6,10
+King's Circle (Matunga),19.0290,72.8570,9,6,9
+Dadar TT Circle,19.0187,72.8424,8,4,8
+Parel TT,18.9980,72.8370,7,4,7
+Lower Parel (Senapati Bapat Marg),19.0000,72.8300,7,5,7
+Elphinstone Road Bridge Underpass,19.0060,72.8340,8,5,8
+Lalbaug (Dr. B.A. Road),18.9920,72.8360,7,4,6
+Byculla (S Bridge),18.9760,72.8330,7,4,7
+Mumbai Central Station Junction,18.9690,72.8190,6,4,6
+Mahalaxmi (Dhobi Ghat Lowland),18.9830,72.8240,7,5,7
+Grant Road (Nana Chowk),18.9620,72.8140,6,5,6
+Worli Naka,19.0170,72.8180,6,8,7
+Worli Sea Face (Promenade Road),19.0230,72.8140,5,10,6
+Prabhadevi (Catering College Road),19.0140,72.8280,6,7,6
+Girgaon Chowpatty Junction,18.9530,72.8150,5,9,5
+Marine Lines (Flyover Low-point),18.9440,72.8250,5,8,5
+Colaba (Cuffe Parade Transit Lane),18.9150,72.8200,4,9,4
+Kurla (LBS Marg / Station West),19.0728,72.8826,10,9,10
+BKC / Mithi River Corridor,19.0660,72.8660,9,10,8
+Kalina (Air India Colony Lowlands),19.0760,72.8550,8,8,8
+Bail Bazaar (Kurla),19.0810,72.8850,9,8,9
+Kurla Depot (Kamani Junction),19.0780,72.8790,8,7,8
+Chembur Naka,19.0522,72.9005,6,6,7
+Shell Colony (Chembur),19.0610,72.8940,8,7,8
+Postal Colony (Chembur),19.0570,72.9030,7,6,7
+Govandi (Station Road),19.0550,72.9150,7,7,7
+Mankhurd (Vashi Naka Lowland),19.0390,72.9260,8,8,8
+Ghatkopar (Pant Nagar),19.0830,72.9120,7,6,7
+Ghatkopar (LBS Marg Junction),19.0890,72.9040,7,6,7
+Vikhroli (Kannamwar Nagar),19.1100,72.9250,7,7,7
+Vikhroli (Godrej Colony Outfall),19.1020,72.9350,6,8,6
+Kanjurmarg (Station Road / LBS),19.1290,72.9310,6,6,6
+Bhandup (Sonapur Junction),19.1440,72.9370,7,6,7
+Bhandup (LBS Marg Industrial),19.1510,72.9330,6,5,6
+Mulund (Check Naka Lowland),19.1760,72.9560,6,5,6
+Mulund (Veena Nagar / Paanch Rasta),19.1680,72.9480,5,5,5
+Nahur (Station Approach Road),19.1580,72.9410,6,6,6
+Bandra (S.V. Road / National College),19.0610,72.8340,7,7,7
+Bandra East (Kalanagar Junction),19.0590,72.8510,8,8,8
+Bandra Kurla Link Road,19.0630,72.8450,7,8,7
+Santacruz (Golibar / Gazdarbandh),19.0820,72.8370,8,8,8
+Vile Parle (S.V. Road Junction),19.0990,72.8420,6,5,6
+Juhu (JVPD Scheme / 10th Road),19.1070,72.8310,7,8,7
+Juhu Beach (Tara Road Lowland),19.0980,72.8270,7,9,7
+Andheri East (MIDC Central Road),19.1240,72.8650,6,4,6
+Andheri East (Chakala / Solitaire),19.1120,72.8600,6,5,6
+Saki Naka Junction (Andheri-Kurla),19.1080,72.8810,8,7,8
+Marol Naka (Fire Brigade Low-point),19.1160,72.8780,7,6,7
+Jogeshwari (S.V. Road / Behram Baug),19.1380,72.8450,8,6,8
+Jogeshwari East (Caves Road),19.1310,72.8590,5,4,5
+Goregaon (Motilal Nagar),19.1620,72.8370,8,7,7
+Goregaon (Inorbit Mall / Link Road),19.1720,72.8340,7,6,6
+Goregaon East (Aarey Colony Road),19.1550,72.8680,5,4,4
+Malad (Chincholi Bunder Road),19.1810,72.8360,8,6,7
+Malad (Marve Road / Mithchowki),19.1910,72.8330,8,7,7
+Kandivali (Iraniwadi / S.V. Road),19.2050,72.8520,6,5,5
+Kandivali (Thakur Complex / WEH),19.2100,72.8680,5,4,4
+Kandivali West (Mahavir Nagar),19.2140,72.8410,6,6,5
+Borivali (Eksar Road Lowland),19.2340,72.8470,6,6,6
+Borivali (National Park Underpass),19.2280,72.8610,7,4,6
+Borivali West (Gorai Creek Approach),19.2390,72.8350,7,9,7
+Dahisar (Anand Nagar / Check Naka),19.2500,72.8590,7,8,7
+Dahisar East (Ratan Nagar),19.2620,72.8640,6,7,6
+Malabar Hill (Walkeshwar Ridge),18.9550,72.7950,1,3,1
+Cumballa Hill (Kemps Corner),18.9660,72.8050,2,3,1
+Pali Hill (Bandra West),19.0660,72.8280,2,4,1
+Mount Mary Ridge (Bandra),19.0470,72.8220,1,5,1
+Powai (Hiranandani Hillside),19.1176,72.9060,2,4,2
+IIT Bombay Campus (Hillside Ridge),19.1330,72.9150,2,5,2
+Antop Hill (Apex Ridge),19.0220,72.8690,2,4,2
+Worli Hill (Doordarshan Ridge),19.0080,72.8180,2,5,1
+Trombay Hill (BARC Ridge),19.0180,72.9230,1,5,1
+Sanjay Gandhi National Park Ridge,19.2180,72.8980,1,3,1
